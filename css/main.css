@@ -1,0 +1,15 @@
+div#principal{
+    height: 100%;
+}
+div.card-panel{
+    margin: 0;
+    position: absolute;
+    margin-top: 50px;
+}
+div.container{
+    border: 10px;
+    height: 800px;
+}
+body{
+    overflow: hidden;
+}
