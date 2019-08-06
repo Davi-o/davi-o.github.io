@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(-40deg,#212121,#2196f3, #212121);
+    overflow: hidden;
+}
+div.principal{
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: linear-gradient(-140deg,#212121,#2196f3, #212121);
+}
